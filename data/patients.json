@@ -1,20 +1,21 @@
 {
   "P001": {
-    "name": "Rahul Sharma",
-    "age": 28,
-    "gender": "Male",
-    "height": 1.75,
-    "weight": 72,
+    "name": "Sundar",
+    "age": 51,
+    "gender": "male",
+    "height": 81.0,
+    "weight": 1.5,
     "bmi": 23.5,
     "blood_group": "B+",
-    "phone": "9876543210",
-    "email": "rahul.sharma@example.com",
-    "address": "Delhi, India",
+    "phone": "9577455412",
+    "email": "user@example.com",
+    "address": "Haridwar",
     "disease": "Fever",
     "doctor": "Dr. Mehta",
     "admission_date": "2026-06-15",
     "discharge_date": "2026-06-18",
-    "status": "Recovered"
+    "status": "Recovered",
+    "BloodGroup": "A+"
   },
   "P002": {
     "name": "Priya Verma",
@@ -168,56 +169,5 @@
     "admission_date": "2026-06-16",
     "discharge_date": "2026-06-21",
     "status": "Recovered"
-  },
-  "P011": {
-    "id": "P011",
-    "name": "Ram kumar",
-    "age": 25,
-    "gender": "male",
-    "height": 1.24,
-    "weight": 59.0,
-    "BloodGroup": "A+",
-    "phone": "0070727658",
-    "email": "kumarram@gmail.com",
-    "address": {
-      "city": "rampur",
-      "state": "UP",
-      "pincode": "110001"
-    },
-    "bmi": 38.37
-  },
-  "P012": {
-    "id": "P012",
-    "name": "Shivam kumar",
-    "age": 25,
-    "gender": "male",
-    "height": 1.24,
-    "weight": 59.0,
-    "BloodGroup": "A+",
-    "phone": "0070727658",
-    "email": "kumarram@gmail.com",
-    "address": {
-      "city": "rampur",
-      "state": "UP",
-      "pincode": "110001"
-    },
-    "bmi": 38.37
-  },
-  "P013": {
-    "id": "P013",
-    "name": "Ravi Gupta",
-    "age": 25,
-    "gender": "male",
-    "height": 1.24,
-    "weight": 59.0,
-    "BloodGroup": "A+",
-    "phone": "0070727658",
-    "email": "kumarram@gmail.com",
-    "address": {
-      "city": "rampur",
-      "state": "UP",
-      "pincode": "110001"
-    },
-    "bmi": 38.37
   }
 }
