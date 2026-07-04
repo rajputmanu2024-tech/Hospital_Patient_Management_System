@@ -5,14 +5,15 @@ A RESTful Hospital Patient Management System built using **FastAPI** and **Pydan
 
 # Features
 
-FastAPI REST API
-Add New Patient
-View All Patients
-Search Patient by ID
-Update Patient Details
-Delete Patient
-BMI Calculation
-Automatic Health Verdict
-Pydantic Validation
-JSON File Storage
-Interactive Swagger Documentation
+FastAPI REST API,
+Add New Patient,
+View All Patients,
+Search Patient by ID,
+Search Patient by Name,
+Update Patient Details,
+Delete Patient,
+BMI Calculation,
+Automatic Health Verdict,
+Pydantic Validation,
+JSON File Storage,
+Interactive Swagger Documentation,
